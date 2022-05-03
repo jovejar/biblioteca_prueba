@@ -1,6 +1,6 @@
 \c jorgevejar
 
--- 1.- Crear el modelo en una base de datos llamada xxx, considerando las tablas definidas y sus atributos. (2 puntos).
+-- 1.- Crear el modelo en una base de datos llamada xxx (biblioteca), considerando las tablas definidas y sus atributos. (2 puntos).
 
 -- Primero se crea la base de datos
 DROP DATABASE biblioteca;
